@@ -1,7 +1,3 @@
-<html>
-    <body>
-    Welcome!
+Welcome!
 
-    Wait for us...
-    </body>
-</html>
+Wait for us...
