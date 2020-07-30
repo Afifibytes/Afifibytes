@@ -1,3 +1,0 @@
-# _Welcome!_
-
-# Wait for us...
