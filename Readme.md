@@ -1,1 +1,1 @@
-I solve problems in the morning, practice curiosity and skepticism at night.
+I solve problems in the morning, practice skeptical curiosity at night.
